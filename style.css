@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+.principal {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#header {
+    background-color: #fa05b9;
+
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+    text-align: center;
+}
+
+#contenue {
+    background-color: antiquewhite;
+}
+
+#footer {
+    background-color: #7676f6;
+}
